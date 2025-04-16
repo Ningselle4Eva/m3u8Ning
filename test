@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,UniversalTV
 http://raw.githubusercontent.com/Ningselle4Eva/m3u8Ning/refs/heads/master/Universal.m3u8
+#EXTINF:-1,MTV
+https://raw.githubusercontent.com/Ningselle4Eva/m3u8Ning/refs/heads/master/MTV.m3u8
