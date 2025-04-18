@@ -1,5 +1,12 @@
 #EXTM3U
-#EXTINF:-1,UniversalTV
-http://raw.githubusercontent.com/Ningselle4Eva/m3u8Ning/refs/heads/master/Universal.m3u8
 #EXTINF:-1,MTV
-https://raw.githubusercontent.com/Ningselle4Eva/m3u8Ning/refs/heads/master/MTV.m3u8
+https://ottnav.jiwonxo00.workers.dev/MTV.m3u8
+
+#EXTINF:-1,SPACE SHOWER TV
+https://ottnav.jiwonxo00.workers.dev/SPACESHOWER.m3u8
+
+#EXTINF:-1,MUSIC JAPAN TV
+https://ottnav.jiwonxo00.workers.dev/MUSICJAPAN.m3u8
+
+#EXTINF:-1,KAYO POPS
+https://ottnav.jiwonxo00.workers.dev/KAYOPOPS.m3u8
