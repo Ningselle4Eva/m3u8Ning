@@ -14,10 +14,20 @@ https://ottnav.jiwonxo00.workers.dev/KAYOPOPS.m3u8
 #EXTINF:-1,MUSIC ON! TV
 https://ottnav.jiwonxo00.workers.dev/MUSICON.m3u8
 
+#EXTINF:-1,13 ULICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=675be68d06964dae9997415c9ec4bc99:a0fb1ffbd72a9d4516819d7ce060f96b
+http://wp2-obc56-live-pl-prod.prod.cdn.dmdsdp.com/dash/13_Ulica_HD/manifest.mpd
+
 #EXTINF:-1,SCI FI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcc5e55c53284b25b8f86320bd9d8709:ea6a841c48878076ed9a645e2b3a70f4
 http://cdn-s-lb2.pluscdn.pl/ch/1455428/81/dash/e7fcf0b5/live.mpd
+
+#EXTINF:-1,HISTORY 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02fa83745e3e476584ddd89e3b63ef59:a0459170a5e37d8b52295ebe0dbc1c42
+http://wp2-obc34-live-pl-prod.prod.cdn.dmdsdp.com/dash/H2_HD/manifest.mpd
 
 #EXTINF:-1,DTX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
