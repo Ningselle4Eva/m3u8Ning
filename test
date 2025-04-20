@@ -46,4 +46,4 @@ https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="104" tvg-logo="https://logo.iptveditor.com/history2.png"  group-title="IZZI GO",HISTORY 2 HD
-https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/HISTORY-2-HD/default.mpd
