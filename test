@@ -33,3 +33,8 @@ http://cdn-s-lb2.pluscdn.pl/ch/1455428/81/dash/e7fcf0b5/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e9f9d55de1e42df93d36bea6e306909:f57fe34c4a19d16d8f4200e42666364f
 http://cdn-s-lb2.pluscdn.pl/ch/1457763/264/dash/36f0fd30/live.mpd
+
+#EXTINF:-1,BS2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9216a28340b442bda2135bf356665664:891b637d93f6c29cbd7f4eeda42f7952
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6127/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
