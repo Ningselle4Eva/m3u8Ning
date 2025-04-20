@@ -16,7 +16,7 @@ https://ottnav.jiwonxo00.workers.dev/MUSICON.m3u8
 
 #EXTINF:-1,HISTORY2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0123456789a0123456789a01234569a0:cf5290089dc1002d8dfd577a7eb034a8
+#KODIPROP:inputstream.adaptive.license_key=8bf05ab069d246b9b90f540ceb8b0609:cf5290089dc1002d8dfd577a7eb034a88
 http://cdn-s-lb2.pluscdn.pl/ch/1455757/101/dash/b71c577f/live.mpd
 
 #EXTINF:-1,13 ULICA
