@@ -26,5 +26,5 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457763/264/dash/36f0fd30/live.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://logo.iptveditor.com/history2.png"  group-title="IZZI GO",HISTORY 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=14402e6154aafa2b79408ea5c1651b1c:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=14402e6154aafa2b79408ea5c1651b1c:9a04f07998404286ab92e65be0885f95
 https://aka-live1-ott.izzigo.tv/3/out/u/dash/HISTORY-2-HD/default.mpd
