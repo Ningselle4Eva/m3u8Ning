@@ -16,15 +16,20 @@ https://ottnav.jiwonxo00.workers.dev/MUSICON.m3u8
 
 #EXTINF:-1,HISTORY2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dff864cb808847169951c8e840e17b09:7ae6a540312e9c3e3f4817c4b0441879
+#KODIPROP:inputstream.adaptive.license_key=8bf05ab069d246b9b90f540ceb8b0609:cf5290089dc1002d8dfd577a7eb034a8
 http://cdn-s-lb2.pluscdn.pl/ch/1455431/84/dash/73d1839b/live.mpd
 
 #EXTINF:-1,13 ULICA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=015f86019ac545b39768e96e3f89da4a:e24259cbb630436c8f535689750f2109
+#KODIPROP:inputstream.adaptive.license_key=dff864cb808847169951c8e840e17b09:7ae6a540312e9c3e3f4817c4b0441879
 http://cdn-s-lb2.pluscdn.pl/ch/1455431/84/dash/73d1839b/live.mpd
 
 #EXTINF:-1,SCI FI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcc5e55c53284b25b8f86320bd9d8709:ea6a841c48878076ed9a645e2b3a70f4
 http://cdn-s-lb2.pluscdn.pl/ch/1455428/81/dash/e7fcf0b5/live.mpd
+
+#EXTINF:-1,DTX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e9f9d55de1e42df93d36bea6e306909:f57fe34c4a19d16d8f4200e42666364f
+http://cdn-s-lb2.pluscdn.pl/ch/1457763/264/dash/36f0fd30/live.mpd
