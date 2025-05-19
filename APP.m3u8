@@ -284,16 +284,22 @@ http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/Sum9qPu.png",ROCK Action
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/Sum9qPu.png",ROCK ACTION
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/Oh9rzNa.png",ROCK Entertainment
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/Oh9rzNa.png",ROCK ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001326/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/WZsIkUf.png",STAR CHANNEL
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/play/737435862/index.m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/4Xs0WTB.png",CLUB MTV
 http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
@@ -308,3 +314,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
 https://tr.live.cdn.cgates.lt/live/dash/560612/index.mpd
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/aHPNTpZ.png",ADULT SWIM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
+https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
