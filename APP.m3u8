@@ -194,10 +194,10 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aq6PzZB.png",HEART OF ASIA
-http://tvnijuan.net:38081/live/tvnijuandemo/tvnijuandemo/609.ts
+https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nudQeH7.png",I HEART MOVIES
-http://tvnijuan.net:38081/live/tvnijuandemo/tvnijuandemo/608.ts
+https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/KLdsqfm.png",SOLARFLIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -273,3 +273,13 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/pa2SF5Z.png",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/X6H75p2.png",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
