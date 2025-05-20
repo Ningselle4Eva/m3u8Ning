@@ -331,3 +331,8 @@ https://bdixtv.life/jio2.php?id=11677&manifest_type=m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/CBRz0BK.png",STAR MOVIES SELECT
 https://bdixtv.life/jio2.php?id=1125&manifest_type=m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/MNblvKB.png",WARNER TV NEXT
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-4mFc1DFDVjEogzS4EXblQ","k":"g0yjn5qvffpMUFTN-MKOuQ"},{"kty":"oct","kid":"L2I9PiWkxJb_iOWlfv2TBw","k":"AHGNEajh3nt6d6SYF-X6QQ"},{"kty":"oct","kid":"VOExH8ZryetUrE5NqZekZA","k":"FOnawC0kn5PghRTqcck1eg"},{"kty":"oct","kid":"v6ozFeJTks2Zx-uOrL6Uzw","k":"ILFqNCUhsQHAaRvcVzqZjQ"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1163/1/live.mpd
