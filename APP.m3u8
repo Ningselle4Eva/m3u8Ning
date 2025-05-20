@@ -308,7 +308,7 @@ http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_key=1da2977f5fed3acb602cc2c8b57c41c1:09aaed2aeee31130fa8f869faff25ee5
-https://live-atv-cdn.izzigo.tv/4/out/u/dash/CLUB-MTV-SD/default.mpd
+https://aka-live1-ott.izzigo.tv/4/out/u/dash/CLUB-MTV-SD/default.mpd
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/j8x0nhs.png",MTV LIVE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
