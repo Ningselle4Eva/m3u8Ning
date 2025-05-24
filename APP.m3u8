@@ -304,12 +304,6 @@ https://vavoo.to/play/737435862/index.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/4Xs0WTB.png",CLUB MTV
 http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/4Xs0WTB.png",CLUB MTV (2)
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_key=1da2977f5fed3acb602cc2c8b57c41c1:09aaed2aeee31130fa8f869faff25ee5
-https://aka-live1-ott.izzigo.tv/4/out/u/dash/CLUB-MTV-SD/default.mpd
-
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/j8x0nhs.png",MTV LIVE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -331,8 +325,3 @@ https://bdixtv.life/jio2.php?id=11677&manifest_type=m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/CBRz0BK.png",STAR MOVIES SELECT
 https://bdixtv.life/jio2.php?id=1125&manifest_type=m3u8
-
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/MNblvKB.png",WARNER TV NEXT
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-4mFc1DFDVjEogzS4EXblQ","k":"g0yjn5qvffpMUFTN-MKOuQ"},{"kty":"oct","kid":"L2I9PiWkxJb_iOWlfv2TBw","k":"AHGNEajh3nt6d6SYF-X6QQ"},{"kty":"oct","kid":"VOExH8ZryetUrE5NqZekZA","k":"FOnawC0kn5PghRTqcck1eg"},{"kty":"oct","kid":"v6ozFeJTks2Zx-uOrL6Uzw","k":"ILFqNCUhsQHAaRvcVzqZjQ"}],"type":"temporary"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/1163/1/live.mpd
