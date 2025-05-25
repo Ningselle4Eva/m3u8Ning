@@ -487,7 +487,7 @@ https://tr.live.cdn.cgates.lt/live/dash/561301/index.mpd
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/vBSZyXv.png",FX COMEDY
 http://185.236.229.62:9981/play/a07t
 
-#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/7rENkRg.png",CINEMAWORLD
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/GoC9AZ2.png",CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -561,3 +561,6 @@ http://185.236.229.62:9981/play/a03o
 
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/bYIumzt.png",SCI FI
 http://185.236.229.62:9981/play/a03k
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/8zxXx5v.png",USA NETWORK
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
