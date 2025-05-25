@@ -441,6 +441,11 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/EvmbcWT.png",TCM CINEMA
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
 
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/opmJz8U.png",ADULT SWIM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
+
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/ZzLza9k.png",STAR ACTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
