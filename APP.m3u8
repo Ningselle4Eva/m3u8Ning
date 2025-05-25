@@ -1145,7 +1145,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001165/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/ryPhHEv.png",BS NITELLE TV
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/ryPhHEv.png",BS NITTELE TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001213/manifest.mpd?virtualDomain=001.live_hls.zte.com
