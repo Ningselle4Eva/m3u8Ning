@@ -426,12 +426,15 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
-http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/tDbuoAU.png",AXN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=axn
 
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/Hy26eiy.png",WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -529,6 +532,18 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/B9m9J1Y.png",CINEMAX 2
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/9Y0y6p3.png",HBO 2
+http://178.219.128.68:64888/HBO2HD
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/W9PpOWK.png",HBO 3
+http://178.219.128.68:64888/HBO3HD
+
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/sPT2SxI.png",MOVIES NOW
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -553,6 +568,9 @@ https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
 https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
 
+#EXTINF:-1 group-title="Series and Movies" tvg-id="" tvg-logo="https://i.imgur.com/fvpV5fH.png",SONY PIX
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/UhRluq1.png",UNIVERSAL TV
 http://45.184.87.142:8000/play/a032
 
@@ -567,5 +585,106 @@ http://185.236.229.62:9981/play/a03o
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/bYIumzt.png",SCI FI
 http://185.236.229.62:9981/play/a03k
 
-#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/8zxXx5v.png",USA NETWORK
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/5nphPif.png",ASTRO SHOWCASE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/63oYCZr.png",ASTRO BOO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/r2MdY8S.png",DISNEY CHANNEL
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/48Qn6qN.png",DISNEY JR.
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/Bccu95o.png",DISNEY XD
+http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/Offhcm1.png",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/l7p2MpK.png",CARTOON NETWORK HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/kHhmOMp.png",CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/j2wmYi7.png",BOOMERANG
+https://fl3.moveonjoy.com/BOOMERANG/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/aSvdGF9.png",DREAMWORKS CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/kbIi1V6.png",NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nickelodeon
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/eaUHjP6.png",NICK JR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/XhTY6wi.png",NICKTOONS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
+https://tr.live.cdn.cgates.lt/live/dash/561208/index.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/8JDIJLr.png",CBEEBIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/hpO0bfY.png",ENGLISH CLUB TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62396662653361643639336337326338:35306664303035323431383738663631
+https://live002.cda.pl/enc109/englishclubtvhd/englishclubtvhd.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/yOLgZar.png",BABYFIRST
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://static.epg.best/br/BabyTV.br.png",BABY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7707f7fb0c84c8ba54619f514eee4ec:fd2ceae6cddde71895e4718f00f34275
+https://tr.live.cdn.cgates.lt/live/dash/561306/index.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/v4ZYiUL.png",MOONBUG
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/daHHNzj.png",ZOOMOO
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/2hKQJkR.png",JIMJAM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d7d9d2aef84494e94830feebe8c0e3c:24bcf3046de823566d8c41b08f633df9
+https://tr.live.cdn.cgates.lt/live/dash/561701/index.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/lJ85O25.png",DA VINCI LEARNING
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee86cc9df1984d42ab7f4e4b5d4779c6:e7fff34cfa72c9be9de54d0d79d944f9
+https://tr.live.cdn.cgates.lt/live/dash/561305/index.mpd
+
+#EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/xhmWQXs.png",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
