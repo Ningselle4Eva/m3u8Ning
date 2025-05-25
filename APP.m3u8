@@ -370,8 +370,10 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/HXihNIi.png",REUTERS
 https://jmp2.uk/sam-DEBD4900001QV.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/UscI8Vl.png",NEWSMAX
-https://v14.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=ObkkWgWzV_OSg-hdXbKhLw&expires=1748150709&user_id=NDkuMTQ2LjI0Ny4xMTM=
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/As246Cy.png",RAI NEWS 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f4423fecb09438c8782af0a7bcb2204:fa49373ddac7b0e9079e62a1ab55807c
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/pa2SF5Z.png",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -629,7 +631,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/j2wmYi7.png",BOOMERANG
-https://fl3.moveonjoy.com/BOOMERANG/tracks-v1a1/mono.ts.m3u8
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/aSvdGF9.png",DREAMWORKS CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -688,3 +690,243 @@ https://tr.live.cdn.cgates.lt/live/dash/561305/index.mpd
 
 #EXTINF:-1 group-title="Kids and Family" tvg-logo="https://i.imgur.com/xhmWQXs.png",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/tb65CMh.png",MTV
+http://109.233.89.166/MTV_Polska_HD/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/j8x0nhs.png",MTV LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
+https://tr.live.cdn.cgates.lt/live/dash/560701/index.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/z0uTcNt.png",MTV HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
+https://tr.live.cdn.cgates.lt/live/dash/560612/index.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/4Xs0WTB.png",CLUB MTV
+http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/CIPTNnT.png",MYX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ST060qy.png",ROCK TV MANILA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/VRazo4V.png",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/wW14rtN.jpeg",TRACE UK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/EP9uxj5.png",MTV 00S
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba29ad1cfb7c4a8b95cca44cf4641e78:b5db7930ad42ca8e7eff680ffba8a713
+https://tr.live.cdn.cgates.lt/live/dash/560410/index.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YeUgnwF.png",MTV 80S
+https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/D5y8Xt8.png",MTV 90S
+http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png",NEW KPOP
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png",K-POP BY CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/LVrzo94.png",KPOP
+http://45.184.87.142:8000/play/a02x
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Tf0vweF.png",KPOP TV PLAY
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/nh1k5RC.png",STINGRAY CLASSICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3UppN5P.png",STINGRAY CMUSIC
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/VOqOnEa.png",STINGRAY DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/CCmGq2o.png",STINGRAY ICONCERTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa806baddc384a168eff4f95f06ad289:eb65e4b92473ed6e33ff05a56343dbab
+https://tr.live.cdn.cgates.lt/live/dash/561101/index.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/GPVWbZ3.png",NOW 70S
+https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/sL8AMLk.png",NOW 80S
+https://tglmp02.akamaized.net/out/v1/4148d890e367435480ca18465a014dd8/manifest.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/bZgXc4i.png",NOW ROCK
+https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="",MEZZO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ecfce9c56a46a42e4aba2dcf8037fed:3085cadf11d93aa24b88ba938ad61ccd
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/mQll31S.png",MEZZO LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4708dc633793632adb2287ef37b2dc79:4d09e48cae8061ed7612c1c969804922
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AOaZmlS.png",MTV BIGGEST POP
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/thbvJd1.png",MTV SPANKIN' NEW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/WnZiNz0.png",MTV UNPLUGGED
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3jK4pbL.png",MTV FLOW LATINO
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/hzNXDdY.png",YO! MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/2TeKCBK.png",NATIONAL GEOGRAPHIC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
+https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/fXdtt0t.png",NATIONAL GEOGRAPHIC WILD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
+https://tr.live.cdn.cgates.lt/live/dash/561201/index.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/xk1u2TS.png",DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/0Ct5ZlG.png",DISCOVERY SCIENCE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/RXMzzlB.png",ANIMAL PLANET
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/z9fsJ2L.png",HISTORY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/bNeT9eV.png",HISTORY2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2IUyLqF8btGPmCyi6nPVIA","k":"wE8qtMHPzukQpW88kA-UJA"},{"kty":"oct","kid":"2IUyLqF8btGPmCyi6nPVEA","k":"kqXATQl3W7BEtsWdSCJU0Q"}],"type":"temporary"}
+https://cors.jugorder.de/https://cd-stream-live.telenorcdn.net/cdgo/sm_history2_hd_live/sm_history2_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/GV3GAln.png",BBC EARTH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/ipKlaA4.png",BBC LIFESTYLE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/8VsCN1h.png",GLOBAL TREKKER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/YZzpZx1.png",LOVE NATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/9ekYwkZ.png",METRO CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/bU6a84F.png",TLC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/rNbirVl.png",FOOD NETWORK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/FGgFyoi.png",HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/hnAhfYs.png",DMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/LplHeem.png",TRAVEL CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/6uqpboW.png",INVESTIGATION DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
+https://tr.live.cdn.cgates.lt/live/dash/561805/index.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/ykb2DmC.png",ASIAN FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001342/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/CDHY9uZ.png",OUTDOOR CHANNEL
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/VqTXs9t.png",CURIOSITY CHANNEL
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/5Qbiv1q.png",TRAVELXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/KeM5KlR.png",CRIME+INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/LIrEjuN.png",LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/nbVPK4a.png",E!
+http://45.184.87.142:8000/play/a027
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/PSgMHTY.png",FASHION TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+
+#EXTINF:-1 group-title="Factual and Lifestyle" tvg-logo="https://i.imgur.com/AU2KCJQ.png",TV5MONDE STYLE
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
