@@ -1184,7 +1184,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 https://server.priterytivi.com/AT-X/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/E1LIeR2.png",ANIME X HIDIVE
-https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c04561ccfb2ce53faebdf3b46320a7:56056fcb5e71ead74af6971b0cbd464a
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lnghgea3sw/out/v1/2b106e29b86f4b5695c961d8da3cc74d/cenc.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/ZG9pqFw.png",CRUNCHYROLL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc88000883537alivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1380,7 +1383,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/NpstY9K.png",BLAST SPORTS
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XxHlcBN.png",BLAST SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://kaotv.ganbaruby23.xyz/blastsport.php
