@@ -428,10 +428,18 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/tDbuoAU.png",AXN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/Hy26eiy.png",WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/EvmbcWT.png",TCM CINEMA
+https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
 
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/ZzLza9k.png",STAR ACTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -471,7 +479,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=35df612f2a58436d85806c585fcf56ce:9dfbd593c235de9843823be314b974cb
 https://tr.live.cdn.cgates.lt/live/dash/561902/index.mpd
 
-#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/ltLvAfU.png",FX LIFE
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/6XTCWw2.png",FX LIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
 https://tr.live.cdn.cgates.lt/live/dash/561301/index.mpd
@@ -479,7 +487,77 @@ https://tr.live.cdn.cgates.lt/live/dash/561301/index.mpd
 #EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/vBSZyXv.png",FX COMEDY
 http://185.236.229.62:9981/play/a07t
 
-#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/znyDC4Y.png",CINEMAWORLD
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/7rENkRg.png",CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/iFitdHY.png",COMEDY CENTRAL
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+
+#EXTINF:-1  group-title="Series and Movies" tvg-logo="https://i.imgur.com/XNCoX74.png",PARAMOUNT NETWORK
+https://coop-montehermoso.cdn.rcs.net.ar/mnp/paramount/output.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/J6Olkop.png",TAP TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/e7xA7qK.png",TAP EDGE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/3RVA5mV.png",TAP MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/2kwXRSR.png",TAP ACTIONFLIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/sPT2SxI.png",MOVIES NOW
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
+https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/8RavK5V.png",MNX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/eLj87zJ.png",MN+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/UhRluq1.png",UNIVERSAL TV
+http://45.184.87.142:8000/play/a032
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/Qx7X56p.png",STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/GKG8gyP.png",13 ULICA
+http://185.236.229.62:9981/play/a03o
+
+#EXTINF:-1 group-title="Series and Movies" tvg-logo="https://i.imgur.com/bYIumzt.png",SCI FI
+http://185.236.229.62:9981/play/a03k
